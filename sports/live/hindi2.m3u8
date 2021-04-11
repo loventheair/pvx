@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=25600
-http://ipl.blissmovies.com//hls/stream_high/index.m3u8
+http://149.28.139.32:8080/hls/2082.m3u8
