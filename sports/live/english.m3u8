@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8
+https://rootercwpoc.akamaized.net/hls/0913173c6d28c3ca1a80f1ac44d6ee55/hd720.m3u8 
