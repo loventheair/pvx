@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://rootercwpoc.akamaized.net/hls/7ef1c1c18b845a2575b471e0d5d5fc76/high.m3u8
+https://rootercwpoc.akamaized.net/hls/3046cd18b1f983bf103b81a10d81f084/low.m3u8
